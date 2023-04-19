@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS1B Spring 2023 pages
+title: CS1B Spring 2023 site
 email: dbegalli@saddleback.edu
 #description: >- # this means to ignore newlines until "baseurl:"
 description:
